@@ -181,37 +181,7 @@
         "overwrite_amount": 15000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
-    },
-    {
-        "name": "PRIO Booster YTTA",
-        "price": "Rp0",
-        "detail": "Konstantinopel tidak ditaklukan oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
-        "packages": [
-            {
-                "family_name": "PRIO Booster",
-                "family_code": "23ddccc0-ac04-4e80-a939-5f5d76f4bc64",
-                "is_enterprise": false,
-                "migration_type": "PRIOH_TO_PRIO",
-                "variant_code": "8c8068e6-1555-454e-a5fe-c5ee440924a5",
-                "option_name": "Extra Kuota Ultima",
-                "order": 3
-            },
-            {
-                "family_name": "PRIO PASS",
-                "family_code": "c298651a-2502-42ac-a052-9b97210a831c",
-                "is_enterprise": null,
-                "migration_type": "null",
-                "variant_code": "6f0c84dd-9630-4216-aa7f-1951afd1d06f",
-                "option_name": "PRIO PASS 30 days",
-                "order": 1
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 999000,
-        "token_confirmation_idx": 0,
-        "amount_idx": -1
     }
-
 ]
+
 
