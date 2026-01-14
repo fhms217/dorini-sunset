@@ -190,7 +190,7 @@
             {
                 "family_name": "PRIO Booster",
                 "family_code": "23ddccc0-ac04-4e80-a939-5f5d76f4bc64",
-                "is_enterprise": false,
+                "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_code": "8c8068e6-1555-454e-a5fe-c5ee440924a5",
                 "option_name": "Extra Kuota Ultima",
@@ -212,4 +212,5 @@
         "token_confirmation_idx": 0,
         "amount_idx": -1
     }
+
 ]
