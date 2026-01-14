@@ -4,8 +4,10 @@ load_dotenv()
 
 import sys
 from app.menus.util import clear_screen, pause
-from app.client.engsel import *
-from app.client.engsel2 import get_tiering_info
+from app.client.engsel import (
+    get_balance,
+    get_tiering_info,
+)
 from app.menus.payment import show_transaction_history
 from app.service.auth import AuthInstance
 from app.menus.bookmark import show_bookmark_menu
