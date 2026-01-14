@@ -1,10 +1,10 @@
 {
-    "family_name": "PRIO PASS",
-    "family_code": "c298651a-2502-42ac-a052-9b97210a831c",
+    "family_name": "PRIO Package",
+    "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
     "is_enterprise": null,
     "migration_type": null,
-    "variant_code": "6f0c84dd-9630-4216-aa7f-1951afd1d06f",
-    "option_name": "PRIO PASS 30 Days",
+    "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
+    "option_name": "PRIO Booster",
     "order": 1,
-    "price": 999000
+    "price": 180000
 }
